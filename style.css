@@ -34,7 +34,7 @@ html{
     z-index: 3;
     transition:margin 1s;
     font-size: 2vh;
-    border: .2vh solid;
+    /* border: .2vh solid; */
 }
 #holeImgDiv{
     width: 100vw;
